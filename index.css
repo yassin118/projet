@@ -1,0 +1,154 @@
+.debut {
+  width: 80%;
+  display: flex;
+  align-items: center;
+}
+.debut ul {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}
+h1 {
+  margin-left: 20px;
+  color: #001e62;
+}
+h3 {
+  color: #00b388;
+  margin-left: 70px;
+  margin-bottom: 200px;
+}
+li {
+  color: #001e62;
+  display: inline;
+  justify-content: space-around;
+  justify-content: end;
+}
+
+.yes {
+  margin-left: 30%;
+  margin-right: 30%;
+  text-align: center;
+  margin-top: 8%;
+}
+.yes h2 {
+  color: #001e62;
+}
+.yes h4 {
+  color: aliceblue;
+}
+
+.no {
+  margin-left: 25%;
+  margin-right: 25%;
+  text-align: center;
+  margin-top: 8%;
+}
+.carousel-inner {
+  text-align: center;
+}
+.no h2 {
+  color: #001e62;
+}
+.no h4 {
+  color: aliceblue;
+}
+.hashtags {
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  margin-top: 30px;
+}
+.ok {
+  margin-left: 35%;
+  margin-right: 35%;
+  margin-top: 10%;
+}
+.image {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+.text on image {
+  position: absolute;
+}
+.fin {
+  margin-left: 35%;
+  margin-right: 35%;
+  margin-top: 5%;
+}
+.mid {
+  margin-top: 40px;
+}
+h2 mid {
+  color: #00b388;
+  justify-content: center;
+  display: flex;
+}
+.img12 {
+  background-image: url("//cms-static.asics.com/media-libraries/62214/file.pc.jpg" );
+  object-fit: contain;
+  width: 500px;
+  height: 300px;
+  padding-top: 250px;
+  padding-right: 250px;
+}
+.img12 h3 {
+  width: 300px;
+  font-size: 1.3rem;
+  color: white;
+}
+
+.img13 {
+  background-image: url("//cms-static.asics.com/media-libraries/62215/file.pc.jpg");
+  object-fit: contain;
+  width: 500px;
+  height: 300px;
+  padding-top: 250px;
+  padding-right: 250px;
+}
+.img13 h3 {
+  width: 300px;
+  font-size: 1.3rem;
+  color: white;
+}
+
+.img14 {
+  background-image: url("//cms-static.asics.com/media-libraries/62216/file.pc.png" );
+  object-fit: contain;
+  width: 500px;
+  height: 300px;
+  padding-top: 250px;
+  padding-right: 250px;
+}
+.img14 h3 {
+  width: 300px;
+  font-size: 1.3rem;
+  color: white;
+}
+.images {
+  margin-top: 30px;
+  display: inline-flex;
+  justify-content: space-evenly;
+}
+.yes h2 {
+  margin-top: 50px;
+}
+.yes h6 {
+  margin-top: 50px;
+}
+.carousel-inner {
+  margin-top: 60px;
+}
+
+.aa {
+  width: 500px;
+}
+.bb {
+  width: 100px;
+}
+.cc {
+  margin-top: 40px;
+}

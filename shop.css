@@ -1,0 +1,109 @@
+.debut {
+    width: 80%;
+    display: flex;
+    align-items: center;
+  }
+  .debut ul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+  }
+  h1 {
+    margin-left: 20px;
+    color: #001e62;
+  }
+  h3 {
+    color: #00b388;
+    margin-left: 70px;
+    margin-bottom: 200px;
+  }
+  li {
+    color: #001e62;
+    display: inline;
+    justify-content: space-around;
+    justify-content: end;
+  }
+  .images {
+    margin-top: 40px;
+    display: inline-flex;
+    justify-content: space-evenly;
+    width: 100%;
+
+  }
+  .debut2 {
+      background-color: #213D52;
+      height: 80px;
+      width: 80%;
+  }
+  .debut2 h2 {
+      color: aliceblue;
+     text-align: center;
+  }
+  .sale h1 {
+      color: grey;
+   
+  }
+  .sale {
+    margin-top: 200px;
+
+    width: auto;
+    height: 100%;
+  }
+  .marques {
+      background-color: white;
+      margin-top: 40px;
+      display: inline-flex;
+      justify-content: space-evenly;
+      width: 100%;
+  }
+  .cadeau {
+      margin-top: 100px;
+      width: 70%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      border: #7EBBE3 10px solid;
+  }
+  button {
+    background-color: #7EBBE3;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .yes {
+      margin-top: 30px;
+  }
+  .topsale {
+    margin-top: 60px;
+    display: inline-flex;
+    justify-content: space-evenly;
+    width: 100%;
+  }
+  .magasin {
+    margin-top: 120px;
+
+  }
+  .magasin h1 {
+      text-align: center;
+  }
+  .k12 {
+    margin-top: 80px;
+  }
+  .images {
+    margin-top: 80px;
+  }
+  .sale h1 {
+    text-align: center;
+    color: #001e62;
+    margin-bottom: 30px;
+  }
+  .photo {
+    margin-top: 50px;
+  }

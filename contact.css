@@ -1,0 +1,44 @@
+.donnee {
+    width: 100% ;
+    display: flex;
+    margin-top: 70px  ;
+    color: white;
+    justify-content: space-evenly;
+}
+.donnee div {
+    width: 40%;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+} 
+ .ha h1 {
+    font-size: 65px;
+    text-align: center;
+    color: white;
+}
+.pp {
+    height: 50px;
+}
+.ha{padding-top: 100px;
+
+}
+.fin {
+    background-color: black;
+    height: 200px;
+    width: 100%;
+    margin-top: 80px;
+}
+.fin h3 {
+    color: white;
+    margin-left: 40px;
+    
+}
+.ssocial {
+    text-align: center;
+}
+.kk {
+    color: white;
+    margin-top: 30px;
+    margin-left: 40px;
+}
